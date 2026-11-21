@@ -227,7 +227,7 @@ No sensor values were imputed or corrected during this process.
 SmellPast v1.0.0 is described in two NeurIPS 2026 workshop papers. If you use the dataset, please cite the paper or papers relevant to your work.
 
 **Foundation Models for Temporal Systems (FMTS)**  
-Joseph Firmansyah, Grace Julius, Ana Julia Santos Lopes, Ruslan Salakhutdinov, and Paul Pu Liang. “Sensing the Past with Smell.” NeurIPS 2026 Workshop on Foundation Models for Temporal Systems, 2026.
+Joseph Firmansyah, Grace Julius, Ana Julia Santos Lopes, Paul Salakhutdinov, and Paul Pu Liang. “Sensing the Past with Smell.” NeurIPS 2026 Workshop on Foundation Models for Temporal Systems, 2026.
 
 **Physical World AI (PhysWorldAI)**  
 Joseph Firmansyah, Grace Julius, Ana Julia Santos Lopes, Paul Salakhutdinov, and Paul Pu Liang. “Sensing the Past with Smell.” NeurIPS 2026 Workshop on Physical World AI: Geometry, Characteristics, and Multimodal Sensing, 2026.
